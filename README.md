@@ -16,3 +16,7 @@ Detailed project documentation can be found here:
 
 ## Project Status
 Work in progress – university project.
+
+## Architecture
+See [Architecture Documentation](docs/architecture.md)
+
